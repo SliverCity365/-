@@ -14,5 +14,3 @@ Java操作es
 https://www.cnblogs.com/biehongli/p/11710704.html
 es settings和mapping的含义
 https://www.cnblogs.com/zlslch/p/6474424.html
-
-长风破浪会有时，直挂云帆济沧海。  --李白
