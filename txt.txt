@@ -1,1 +1,18 @@
-hello word
+1、Elasticsearch是基于Lucene开发的一个分布式全文检索框架，向Elasticsearch中存储和从Elasticsearch中查询，格式是json。
+
+　　a）、索引index，相当于数据库中的database。
+
+　　b）、类型type相当于数据库中的table。
+
+　　c）、主键id相当于数据库中记录的主键，是唯一的。
+
+　　d）、向Elasticsearch中存储数据，其实就是向es中的index下面的type中存储json类型的数据。
+
+es入门
+https://www.cnblogs.com/sunsky303/p/9438737.html
+Java操作es
+https://www.cnblogs.com/biehongli/p/11710704.html
+es settings和mapping的含义
+https://www.cnblogs.com/zlslch/p/6474424.html
+
+长风破浪会有时，直挂云帆济沧海。  --李白
